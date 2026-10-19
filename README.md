@@ -71,6 +71,10 @@ Small games that are well put together where you could still end up getting hour
 	* Top-down multiplayer game with melee
 	* HTML, CSS, JavaScript, Canvas
 
+- [Pokemon Arena 2D](https://poke2darena.com/)
+	* Free real-time 2D Pokemon battle arena in the browser (HTML5); 1000+ Pokemon, gym bosses, online 1v1; keyboard/gamepad/touch
+	* HTML, CSS, JavaScript / Canvas (fan browser arena; unofficial)
+
 
 ## Mini
 
